@@ -1,5 +1,5 @@
 * JavaScript選手権作品 
-  https://akarin-git.github.io/space_nasa_api/
+   https://akarin-git.github.io/nasa_spacekit/.
   
 - Nasa API(Neo - Lookup)を使用し、 Amorの軌道要素を取得。
    https://api.nasa.gov/ 
